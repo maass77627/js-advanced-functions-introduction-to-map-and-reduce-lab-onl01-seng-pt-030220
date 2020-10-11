@@ -40,6 +40,7 @@ function reduceToAllTrue(sourceArray) {
   } return true
   }
 
+<<<<<<< HEAD
 
 
 function reduceToAnyTrue(sourceArray) {
@@ -48,5 +49,10 @@ function reduceToAnyTrue(sourceArray) {
             return true;
         }
     } return false;
+=======
+}
+
+function reduceToAnyTrue(sourceArray) {
+>>>>>>> bd83e1b603040a217439174ca223016a1418c933
 
 }
